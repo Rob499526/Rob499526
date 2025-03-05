@@ -1,19 +1,69 @@
-# Hi there! I'm Robert Aydinyan 👋
+# 👨‍💻 Robert Aydinyan – Full Stack Web & Mobile Developer
 
-## 🌟 Senior Full Stack Web and Mobile Developer
+🚀 Passionate **Full Stack Developer** with **6+ years** of experience specializing in **PHP, Laravel, JavaScript, Python, and Mobile Development**. Skilled in building high-performance **web and mobile applications**, optimizing databases, and leading teams to success.
 
-### About Me
+## 🔥 About Me
+- **Tech Stack:** PHP, Laravel, Yii2, Python, Django, JavaScript, Vue.js, React.js, Angular, Node.js, Express.js
+- **Mobile Development:** React Native
+- **Databases:** MySQL, PostgreSQL
+- **Development Tools:** Docker, GitHub, GitLab, BitBucket, Jira, Trello, Asana
+- **APIs & Integrations:** REST API, Stripe, Twilio, Doordash, Uber, Intercart, Vista
 
-I'm a talented, ambitious, and hardworking individual with a passion for developing innovative web and mobile applications. I thrive in fast-paced environments, where I can utilize my skills in both frontend and backend development to deliver high-quality solutions. With experience leading teams and managing complex projects, I'm always looking to push the boundaries of what's possible.
+📌 I focus on delivering **efficient, reliable, and scalable** solutions for businesses. Whether working independently or leading a team, I always strive for **customer satisfaction** and **high-quality software**.
 
-----------
+---
 
+## 💡 What I Do
+✅ Full Stack Web & Mobile Development  
+✅ CRM, ERP, and Business Automation  
+✅ API Development & Third-party Integrations  
+✅ Performance Optimization & Security Implementation  
+✅ Agile Team Leadership & Project Management  
 
-### 🔗 Links 
- [![Portfolio](https://img.shields.io/badge/Portfolio-robond.dev-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.robond.dev/) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Robert_Aydinyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertaydinyan/) 
-   [![Gmail](https://img.shields.io/badge/Gmail-robert.aydinyan2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robert.aydinyan2002@gmail.com) 
-    [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ro_bond)
+---
+
+## 💼 Notable Projects
+### **Armenian Partners**
+**Tech Stack:** PHP, Yii2, React Native  
+**Role:** Lead Full Stack Developer  
+✔ Built a **networking and crowdfunding** platform to connect professionals and investors.
+
+### **Cyber GPT**
+**Tech Stack:** Python, Django  
+**Role:** Full Stack Developer  
+✔ Developed a **cybersecurity AI-powered** platform hosting multiple specialized GPT models.
+
+### **Utility Outage Notification Bot**
+**Tech Stack:** PHP, Laravel  
+**Role:** Full Stack Developer  
+✔ Created a **Telegram bot** to provide **real-time updates** on utility outages.
+
+### **Binaural Technologies**
+**Tech Stack:** PHP, JavaScript  
+**Role:** Full Stack Developer  
+✔ Implemented **sales funnels** using Checkout Champ to **optimize conversion rates**.
+
+### **Grocera**
+**Tech Stack:** PHP, Yii2, Laravel, Vue.js  
+**Role:** Lead Full Stack Developer  
+✔ Developed an **LA-based online grocery platform** with a focus on **fresh organic products**.
+
+### **BI Dashboard – Yerevan Mall**
+**Tech Stack:** PHP, Yii2, Laravel, JavaScript, jQuery  
+**Role:** Full Stack Developer  
+✔ Built **data visualization dashboards** for business intelligence and operational insights.
+
+### **Loco – Restaurant Reservation System**
+**Tech Stack:** Python  
+**Role:** Full Stack Developer  
+✔ Developed a **restaurant booking system** with an interactive map and seamless UX.
+
+---
+
+## 📫 Contact Me
+- **Email:** robert.aydinyan.up@gmail.com
+
+💬 **Let’s collaborate on your next project!** 🚀
 ----------
 
 ### 🛠️ Languages & Technologies
